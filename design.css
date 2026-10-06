@@ -31,18 +31,23 @@ body {
 }
 
 .text {
-    font-size: 50px;
+    font-size: 300%;
     color: #FFFFFF;
 }
 
 input {
-    width: 350px;
-    height: 50px;
-    font-size: 20px;
+    width: 55%;
+    height: 6%;
+    font-size: 200%;
+}
+
+.logintext {
+    font-size: 200%;
 }
 
 button {
-    width: 200px;
-    height: 50px;
-    font-size: 20px;
+    width:40%;
+    height: 6%;
+    font-size: 200%;
 }
+
